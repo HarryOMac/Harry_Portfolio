@@ -1,6 +1,3 @@
-# Harry's Data Science Portfolio
-Harry is a Data Science Apprentice studying with BPP university. Within this portfolio are just some examples of the things he has learnt and used during his studies.
-
 ## [Formula 1 Driver Analysis](https://github.com/HarryOMac/Formula_1_Analysis/tree/main "Github Repo")
 - Analysis and engineering complete in **Python** with **Pandas**
 - Data from decades of race results **aggregated** by driver to find the best racer
